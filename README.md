@@ -20,6 +20,7 @@ This project is a web application built with **Create React App** and uses **Tai
 
 Run the following command in the project directory to set up the project:
 
+for Client
 ```bash
 npm install
 This script installs dependencies for both the client and server.
@@ -27,8 +28,15 @@ This script installs dependencies for both the client and server.
 npm start
 This  script starts the development sever
 ```
+for sever use node v12
+```bash
+npm install
+This script installs dependencies for both the client and server.
 
-Build Client
+npm start
+This  script starts the development sever
+```
+Build Client:
 To build the client, run the following command in the client folder:
 
 bash
