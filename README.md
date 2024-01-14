@@ -23,19 +23,22 @@ Run the following command in the project directory to set up the project:
 for Client
 ```bash
 npm install
-This script installs dependencies for both the client and server.
-
-npm start
-This  script starts the development sever
 ```
+This script installs dependencies for both the client and server.
+```
+npm start
+```
+This  script starts the development sever
+
 for sever use node v12
 ```bash
 npm install
-This script installs dependencies for both the client and server.
-
-npm start
-This  script starts the development sever
 ```
+This script installs dependencies for both the client and server.
+```
+npm start
+```
+
 Build Client:
 To build the client, run the following command in the client folder:
 
